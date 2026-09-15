@@ -1,0 +1,3802 @@
+[
+  {
+    "id": "MM-PROP-001",
+    "title": "Light-filled 1-bed condo in Bahan",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 12, Kabar Aye Pagoda Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-001",
+      "name": "Thiri Win",
+      "type": "agent",
+      "phone_verified": false,
+      "response_time_minutes": 8
+    },
+    "verification_status": "pending",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-002",
+    "title": "Quiet 2-bed mini condo in Kamayut",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 19, Pyay Road, near Hledan Centre, Kamayut",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-002",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-003",
+    "title": "Well-kept 3-bed apartment in Hlaing",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 26, Inya Road, near Insein Road, Hlaing",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-003",
+      "name": "Khin Myint",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-004",
+    "title": "Spacious 1-bed apartment in Yankin",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 33, Baho Road, near Myanmar Plaza, Yankin",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-004",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-005",
+    "title": "Move-in ready 4-bed villa in Sanchaung",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 40, U Wisara Road, near Dhammazedi Road, Sanchaung",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 4600,
+    "floor": null,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-005",
+      "name": "Min Naing",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-006",
+    "title": "Light-filled 3-bed condo in Dagon",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 47, Kabar Aye Pagoda Road, near People's Park, Dagon",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1500,
+    "floor": 7,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-006",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-007",
+    "title": "Quiet 1-bed mini condo in Mayangone",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 54, Pyay Road, near 8 Mile Junction, Mayangone",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-007",
+      "name": "Zaw Kyaw",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-008",
+    "title": "Well-kept 2-bed apartment in Chanmyathazi",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 61, 61th Street, near 62nd Street, Chanmyathazi",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-008",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-009",
+    "title": "Spacious 3-bed apartment in Aungmyaythazan",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 68, 62th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-009",
+      "name": "Htet Tun",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-010",
+    "title": "Move-in ready 5-bed villa in Bahan",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 75, U Wisara Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4250,
+    "floor": null,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-010",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-011",
+    "title": "Light-filled 2-bed condo in Kamayut",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 82, Kabar Aye Pagoda Road, near Hledan Centre, Kamayut",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1160,
+    "floor": 12,
+    "year_built": 2018,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-011",
+      "name": "Thiri Win",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-012",
+    "title": "Quiet 3-bed mini condo in Hlaing",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 89, Pyay Road, near Insein Road, Hlaing",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2019,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-012",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "pending",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-013",
+    "title": "Well-kept 1-bed apartment in Yankin",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 18, Inya Road, near Myanmar Plaza, Yankin",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2020,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-013",
+      "name": "Khin Myint",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-014",
+    "title": "Spacious 2-bed apartment in Sanchaung",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 25, Baho Road, near Dhammazedi Road, Sanchaung",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2021,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-014",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-015",
+    "title": "Move-in ready 4-bed villa in Dagon",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 32, U Wisara Road, near People's Park, Dagon",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3900,
+    "floor": null,
+    "year_built": 2022,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-015",
+      "name": "Min Naing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-016",
+    "title": "Light-filled 1-bed condo in Mayangone",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 39, Kabar Aye Pagoda Road, near 8 Mile Junction, Mayangone",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2023,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-016",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-017",
+    "title": "Quiet 2-bed mini condo in Chanmyathazi",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 46, 70th Street, near 62nd Street, Chanmyathazi",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2024,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-017",
+      "name": "Zaw Kyaw",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-018",
+    "title": "Well-kept 3-bed apartment in Aungmyaythazan",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 53, 71th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2025,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-018",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": false,
+      "response_time_minutes": 36
+    },
+    "verification_status": "unverified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-019",
+    "title": "Spacious 1-bed apartment in Bahan",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 60, Baho Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1330,
+    "floor": 6,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-019",
+      "name": "Htet Tun",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-020",
+    "title": "Move-in ready 5-bed villa in Kamayut",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 67, U Wisara Road, near Hledan Centre, Kamayut",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 3550,
+    "floor": null,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-020",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-021",
+    "title": "Light-filled 3-bed condo in Hlaing",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 74, Kabar Aye Pagoda Road, near Insein Road, Hlaing",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-021",
+      "name": "Thiri Win",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-022",
+    "title": "Quiet 1-bed mini condo in Yankin",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 81, Pyay Road, near Myanmar Plaza, Yankin",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-022",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-023",
+    "title": "Well-kept 2-bed apartment in Sanchaung",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 88, Inya Road, near Dhammazedi Road, Sanchaung",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-023",
+      "name": "Khin Myint",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "pending",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-024",
+    "title": "Spacious 3-bed apartment in Dagon",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 17, Baho Road, near People's Park, Dagon",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 990,
+    "floor": 11,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-024",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-025",
+    "title": "Move-in ready 4-bed villa in Mayangone",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 24, U Wisara Road, near 8 Mile Junction, Mayangone",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3200,
+    "floor": null,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-025",
+      "name": "Min Naing",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-026",
+    "title": "Light-filled 2-bed condo in Chanmyathazi",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 31, 60th Street, near 62nd Street, Chanmyathazi",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-026",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-027",
+    "title": "Quiet 3-bed mini condo in Aungmyaythazan",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 38, 61th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-027",
+      "name": "Zaw Kyaw",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-028",
+    "title": "Well-kept 1-bed apartment in Bahan",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 45, Inya Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-028",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-029",
+    "title": "Spacious 2-bed apartment in Kamayut",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 52, Baho Road, near Hledan Centre, Kamayut",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2018,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-029",
+      "name": "Htet Tun",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-030",
+    "title": "Move-in ready 5-bed villa in Hlaing",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 59, U Wisara Road, near Insein Road, Hlaing",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4950,
+    "floor": null,
+    "year_built": 2019,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-030",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-031",
+    "title": "Light-filled 1-bed condo in Yankin",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 66, Kabar Aye Pagoda Road, near Myanmar Plaza, Yankin",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2020,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-031",
+      "name": "Thiri Win",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-032",
+    "title": "Quiet 2-bed mini condo in Sanchaung",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 73, Pyay Road, near Dhammazedi Road, Sanchaung",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2021,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-032",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-033",
+    "title": "Well-kept 3-bed apartment in Dagon",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 80, Inya Road, near People's Park, Dagon",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1330,
+    "floor": 6,
+    "year_built": 2022,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-033",
+      "name": "Khin Myint",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-034",
+    "title": "Spacious 1-bed apartment in Mayangone",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 87, Baho Road, near 8 Mile Junction, Mayangone",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1500,
+    "floor": 7,
+    "year_built": 2023,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-034",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "pending",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-035",
+    "title": "Move-in ready 4-bed villa in Chanmyathazi",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 16, 69th Street, near 62nd Street, Chanmyathazi",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 4600,
+    "floor": null,
+    "year_built": 2024,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-035",
+      "name": "Min Naing",
+      "type": "owner",
+      "phone_verified": false,
+      "response_time_minutes": 64
+    },
+    "verification_status": "unverified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-036",
+    "title": "Light-filled 3-bed condo in Aungmyaythazan",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 23, 70th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2025,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-036",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-037",
+    "title": "Quiet 1-bed mini condo in Bahan",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 30, Pyay Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-037",
+      "name": "Zaw Kyaw",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-038",
+    "title": "Well-kept 2-bed apartment in Kamayut",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 37, Inya Road, near Hledan Centre, Kamayut",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 990,
+    "floor": 11,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-038",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-039",
+    "title": "Spacious 3-bed apartment in Hlaing",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 44, Baho Road, near Insein Road, Hlaing",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1160,
+    "floor": 12,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-001",
+      "name": "Htet Tun",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-040",
+    "title": "Move-in ready 5-bed villa in Yankin",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 51, U Wisara Road, near Myanmar Plaza, Yankin",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4250,
+    "floor": null,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-002",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-041",
+    "title": "Light-filled 2-bed condo in Sanchaung",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 58, Kabar Aye Pagoda Road, near Dhammazedi Road, Sanchaung",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-003",
+      "name": "Thiri Win",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-042",
+    "title": "Quiet 3-bed mini condo in Dagon",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 65, Pyay Road, near People's Park, Dagon",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-004",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-043",
+    "title": "Well-kept 1-bed apartment in Mayangone",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 72, Inya Road, near 8 Mile Junction, Mayangone",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-005",
+      "name": "Khin Myint",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-044",
+    "title": "Spacious 2-bed apartment in Chanmyathazi",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 79, 59th Street, near 62nd Street, Chanmyathazi",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-006",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-045",
+    "title": "Move-in ready 4-bed villa in Aungmyaythazan",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 86, 60th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3900,
+    "floor": null,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-007",
+      "name": "Min Naing",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "pending",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-046",
+    "title": "Light-filled 1-bed condo in Bahan",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 15, Kabar Aye Pagoda Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-008",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-047",
+    "title": "Quiet 2-bed mini condo in Kamayut",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 22, Pyay Road, near Hledan Centre, Kamayut",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1330,
+    "floor": 6,
+    "year_built": 2018,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-009",
+      "name": "Zaw Kyaw",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-048",
+    "title": "Well-kept 3-bed apartment in Hlaing",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 29, Inya Road, near Insein Road, Hlaing",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1500,
+    "floor": 7,
+    "year_built": 2019,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-010",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-049",
+    "title": "Spacious 1-bed apartment in Yankin",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 36, Baho Road, near Myanmar Plaza, Yankin",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2020,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-011",
+      "name": "Htet Tun",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-050",
+    "title": "Move-in ready 5-bed villa in Sanchaung",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 43, U Wisara Road, near Dhammazedi Road, Sanchaung",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 3550,
+    "floor": null,
+    "year_built": 2021,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-012",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-051",
+    "title": "Light-filled 3-bed condo in Dagon",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 50, Kabar Aye Pagoda Road, near People's Park, Dagon",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2022,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-013",
+      "name": "Thiri Win",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-052",
+    "title": "Quiet 1-bed mini condo in Mayangone",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 57, Pyay Road, near 8 Mile Junction, Mayangone",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 990,
+    "floor": 11,
+    "year_built": 2023,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-014",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": false,
+      "response_time_minutes": 92
+    },
+    "verification_status": "unverified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-053",
+    "title": "Well-kept 2-bed apartment in Chanmyathazi",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 64, 68th Street, near 62nd Street, Chanmyathazi",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1160,
+    "floor": 12,
+    "year_built": 2024,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-015",
+      "name": "Khin Myint",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-054",
+    "title": "Spacious 3-bed apartment in Aungmyaythazan",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 71, 69th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2025,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-016",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-055",
+    "title": "Move-in ready 4-bed villa in Bahan",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 78, U Wisara Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3200,
+    "floor": null,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-017",
+      "name": "Min Naing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-056",
+    "title": "Light-filled 2-bed condo in Kamayut",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 85, Kabar Aye Pagoda Road, near Hledan Centre, Kamayut",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-018",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "pending",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-057",
+    "title": "Quiet 3-bed mini condo in Hlaing",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 14, Pyay Road, near Insein Road, Hlaing",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-019",
+      "name": "Zaw Kyaw",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-058",
+    "title": "Well-kept 1-bed apartment in Yankin",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 21, Inya Road, near Myanmar Plaza, Yankin",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-020",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-059",
+    "title": "Spacious 2-bed apartment in Sanchaung",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 28, Baho Road, near Dhammazedi Road, Sanchaung",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-021",
+      "name": "Htet Tun",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-060",
+    "title": "Move-in ready 5-bed villa in Dagon",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 35, U Wisara Road, near People's Park, Dagon",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4950,
+    "floor": null,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-022",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-061",
+    "title": "Light-filled 1-bed condo in Mayangone",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 42, Kabar Aye Pagoda Road, near 8 Mile Junction, Mayangone",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1330,
+    "floor": 6,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-023",
+      "name": "Thiri Win",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-062",
+    "title": "Quiet 2-bed mini condo in Chanmyathazi",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 49, 58th Street, near 62nd Street, Chanmyathazi",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1500,
+    "floor": 7,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-024",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-063",
+    "title": "Well-kept 3-bed apartment in Aungmyaythazan",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 56, 59th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-025",
+      "name": "Khin Myint",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-064",
+    "title": "Spacious 1-bed apartment in Bahan",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 63, Baho Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-026",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-065",
+    "title": "Move-in ready 4-bed villa in Kamayut",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 70, U Wisara Road, near Hledan Centre, Kamayut",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 4600,
+    "floor": null,
+    "year_built": 2018,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-027",
+      "name": "Min Naing",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-066",
+    "title": "Light-filled 3-bed condo in Hlaing",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 77, Kabar Aye Pagoda Road, near Insein Road, Hlaing",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 990,
+    "floor": 11,
+    "year_built": 2019,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-028",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-067",
+    "title": "Quiet 1-bed mini condo in Yankin",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 84, Pyay Road, near Myanmar Plaza, Yankin",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 12,
+    "year_built": 2020,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-029",
+      "name": "Zaw Kyaw",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "pending",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-068",
+    "title": "Well-kept 2-bed apartment in Sanchaung",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 13, Inya Road, near Dhammazedi Road, Sanchaung",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2021,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-030",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-069",
+    "title": "Spacious 3-bed apartment in Dagon",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 20, Baho Road, near People's Park, Dagon",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2022,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-031",
+      "name": "Htet Tun",
+      "type": "agent",
+      "phone_verified": false,
+      "response_time_minutes": 29
+    },
+    "verification_status": "unverified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-070",
+    "title": "Move-in ready 5-bed villa in Mayangone",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 27, U Wisara Road, near 8 Mile Junction, Mayangone",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4250,
+    "floor": null,
+    "year_built": 2023,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-032",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-071",
+    "title": "Light-filled 2-bed condo in Chanmyathazi",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 34, 67th Street, near 62nd Street, Chanmyathazi",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2024,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-033",
+      "name": "Thiri Win",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-072",
+    "title": "Quiet 3-bed mini condo in Aungmyaythazan",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 41, 68th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2025,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-034",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-073",
+    "title": "Well-kept 1-bed apartment in Bahan",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 48, Inya Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-035",
+      "name": "Khin Myint",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-074",
+    "title": "Spacious 2-bed apartment in Kamayut",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 55, Baho Road, near Hledan Centre, Kamayut",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-036",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-075",
+    "title": "Move-in ready 4-bed villa in Hlaing",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 62, U Wisara Road, near Insein Road, Hlaing",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3900,
+    "floor": null,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-037",
+      "name": "Min Naing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-076",
+    "title": "Light-filled 1-bed condo in Yankin",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 69, Kabar Aye Pagoda Road, near Myanmar Plaza, Yankin",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1500,
+    "floor": 7,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-038",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-077",
+    "title": "Quiet 2-bed mini condo in Sanchaung",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 76, Pyay Road, near Dhammazedi Road, Sanchaung",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-001",
+      "name": "Zaw Kyaw",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-078",
+    "title": "Well-kept 3-bed apartment in Dagon",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 83, Inya Road, near People's Park, Dagon",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-002",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "pending",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-079",
+    "title": "Spacious 1-bed apartment in Mayangone",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 12, Baho Road, near 8 Mile Junction, Mayangone",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-003",
+      "name": "Htet Tun",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-080",
+    "title": "Move-in ready 5-bed villa in Chanmyathazi",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 19, 57th Street, near 62nd Street, Chanmyathazi",
+    "price": 185000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 3550,
+    "floor": null,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-004",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-081",
+    "title": "Light-filled 3-bed condo in Aungmyaythazan",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 26, 58th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 1160,
+    "floor": 12,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-005",
+      "name": "Thiri Win",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-082",
+    "title": "Quiet 1-bed mini condo in Bahan",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 33, Pyay Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-006",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-083",
+    "title": "Well-kept 2-bed apartment in Kamayut",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 40, Inya Road, near Hledan Centre, Kamayut",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2018,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-007",
+      "name": "Khin Myint",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-084",
+    "title": "Spacious 3-bed apartment in Hlaing",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 47, Baho Road, near Insein Road, Hlaing",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2019,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-008",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-085",
+    "title": "Move-in ready 4-bed villa in Yankin",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 54, U Wisara Road, near Myanmar Plaza, Yankin",
+    "price": 120000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 3200,
+    "floor": null,
+    "year_built": 2020,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-009",
+      "name": "Min Naing",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-086",
+    "title": "Light-filled 2-bed condo in Sanchaung",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 61, Kabar Aye Pagoda Road, near Dhammazedi Road, Sanchaung",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 820,
+    "floor": 3,
+    "year_built": 2021,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-010",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": false,
+      "response_time_minutes": 57
+    },
+    "verification_status": "unverified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-087",
+    "title": "Quiet 3-bed mini condo in Dagon",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 68, Pyay Road, near People's Park, Dagon",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 990,
+    "floor": 4,
+    "year_built": 2022,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-011",
+      "name": "Zaw Kyaw",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-088",
+    "title": "Well-kept 1-bed apartment in Mayangone",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 75, Inya Road, near 8 Mile Junction, Mayangone",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1160,
+    "floor": 5,
+    "year_built": 2023,
+    "furniture": "unfurnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-012",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 71
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-089",
+    "title": "Spacious 2-bed apartment in Chanmyathazi",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 82, 66th Street, near 62nd Street, Chanmyathazi",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area_sqft": 1330,
+    "floor": 6,
+    "year_built": 2024,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-013",
+      "name": "Htet Tun",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 78
+    },
+    "verification_status": "pending",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-090",
+    "title": "Move-in ready 5-bed villa in Aungmyaythazan",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 89, 67th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 900000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4950,
+    "floor": null,
+    "year_built": 2025,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-014",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 85
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-091",
+    "title": "Light-filled 1-bed condo in Bahan",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 18, Kabar Aye Pagoda Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 800000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 8,
+    "year_built": 2008,
+    "furniture": "unfurnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-015",
+      "name": "Thiri Win",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 92
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-092",
+    "title": "Quiet 2-bed mini condo in Kamayut",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to Hledan Centre. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Kamayut",
+    "address": "No. 25, Pyay Road, near Hledan Centre, Kamayut",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 650,
+    "floor": 9,
+    "year_built": 2009,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-016",
+      "name": "Aung Aye",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 8
+    },
+    "verification_status": "verified",
+    "rating": 4.5
+  },
+  {
+    "id": "MM-PROP-093",
+    "title": "Well-kept 3-bed apartment in Hlaing",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to Insein Road. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Hlaing",
+    "address": "No. 32, Inya Road, near Insein Road, Hlaing",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 820,
+    "floor": 10,
+    "year_built": 2010,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-017",
+      "name": "Khin Myint",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 15
+    },
+    "verification_status": "verified",
+    "rating": 4.6
+  },
+  {
+    "id": "MM-PROP-094",
+    "title": "Spacious 1-bed apartment in Yankin",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Myanmar Plaza. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Yankin",
+    "address": "No. 39, Baho Road, near Myanmar Plaza, Yankin",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 990,
+    "floor": 11,
+    "year_built": 2011,
+    "furniture": "unfurnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-018",
+      "name": "Nandar Mon",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 22
+    },
+    "verification_status": "verified",
+    "rating": 4.7
+  },
+  {
+    "id": "MM-PROP-095",
+    "title": "Move-in ready 4-bed villa in Sanchaung",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Dhammazedi Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Sanchaung",
+    "address": "No. 46, U Wisara Road, near Dhammazedi Road, Sanchaung",
+    "price": 680000000,
+    "currency": "MMK",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area_sqft": 4600,
+    "floor": null,
+    "year_built": 2012,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-019",
+      "name": "Min Naing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 29
+    },
+    "verification_status": "verified",
+    "rating": 4.8
+  },
+  {
+    "id": "MM-PROP-096",
+    "title": "Light-filled 3-bed condo in Dagon",
+    "description": "Light-filled condo with practical rooms, good natural light, and easy access to People's Park. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Dagon",
+    "address": "No. 53, Kabar Aye Pagoda Road, near People's Park, Dagon",
+    "price": 1500000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area_sqft": 1330,
+    "floor": 13,
+    "year_built": 2013,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "24-hour security",
+      "lift",
+      "car parking",
+      "backup generator"
+    ],
+    "images": [
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-020",
+      "name": "May Lwin",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 36
+    },
+    "verification_status": "verified",
+    "rating": 4.9
+  },
+  {
+    "id": "MM-PROP-097",
+    "title": "Quiet 1-bed mini condo in Mayangone",
+    "description": "Quiet mini condo with practical rooms, good natural light, and easy access to 8 Mile Junction. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "mini_condo",
+    "purpose": "rent",
+    "city": "Yangon",
+    "township": "Mayangone",
+    "address": "No. 60, Pyay Road, near 8 Mile Junction, Mayangone",
+    "price": 300000,
+    "currency": "MMK",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area_sqft": 1500,
+    "floor": 14,
+    "year_built": 2014,
+    "furniture": "unfurnished",
+    "amenities": [
+      "air conditioning",
+      "balcony",
+      "water heater",
+      "fiber internet ready"
+    ],
+    "images": [
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/family-house.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-021",
+      "name": "Zaw Kyaw",
+      "type": "agent",
+      "phone_verified": true,
+      "response_time_minutes": 43
+    },
+    "verification_status": "verified",
+    "rating": 4.2
+  },
+  {
+    "id": "MM-PROP-098",
+    "title": "Well-kept 2-bed apartment in Chanmyathazi",
+    "description": "Well-kept apartment with practical rooms, good natural light, and easy access to 62nd Street. This demo listing includes clear monthly terms, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "rent",
+    "city": "Mandalay",
+    "township": "Chanmyathazi",
+    "address": "No. 67, 56th Street, near 62nd Street, Chanmyathazi",
+    "price": 500000,
+    "currency": "MMK",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area_sqft": 1670,
+    "floor": 15,
+    "year_built": 2015,
+    "furniture": "partly_furnished",
+    "amenities": [
+      "car parking",
+      "private garden",
+      "water tank",
+      "quiet street"
+    ],
+    "images": [
+      "/images/properties/family-house.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-022",
+      "name": "Su Oo",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 50
+    },
+    "verification_status": "verified",
+    "rating": 4.3
+  },
+  {
+    "id": "MM-PROP-099",
+    "title": "Spacious 3-bed apartment in Aungmyaythazan",
+    "description": "Spacious apartment with practical rooms, good natural light, and easy access to Mandalay Palace. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "apartment",
+    "purpose": "sale",
+    "city": "Mandalay",
+    "township": "Aungmyaythazan",
+    "address": "No. 74, 57th Street, near Mandalay Palace, Aungmyaythazan",
+    "price": 260000000,
+    "currency": "MMK",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area_sqft": 650,
+    "floor": 2,
+    "year_built": 2016,
+    "furniture": "fully_furnished",
+    "amenities": [
+      "swimming pool",
+      "gym",
+      "24-hour security",
+      "reception"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/jade-residence-exterior.jpg",
+      "/images/properties/warm-living-room.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-023",
+      "name": "Htet Tun",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 57
+    },
+    "verification_status": "verified",
+    "rating": 4.4
+  },
+  {
+    "id": "MM-PROP-100",
+    "title": "Move-in ready 5-bed villa in Bahan",
+    "description": "Move-in ready villa with practical rooms, good natural light, and easy access to Shwe Dagon Pagoda Road. This demo listing includes clear ownership details, a sample photo set, and a viewing contact.",
+    "property_type": "villa",
+    "purpose": "sale",
+    "city": "Yangon",
+    "township": "Bahan",
+    "address": "No. 81, U Wisara Road, near Shwe Dagon Pagoda Road, Bahan",
+    "price": 520000000,
+    "currency": "MMK",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area_sqft": 4250,
+    "floor": null,
+    "year_built": 2017,
+    "furniture": "unfurnished",
+    "amenities": [
+      "market nearby",
+      "public transport nearby",
+      "balcony",
+      "pet friendly"
+    ],
+    "images": [
+      "/images/properties/hero-yangon-home.jpg",
+      "/images/properties/warm-living-room.jpg",
+      "/images/properties/jade-residence-exterior.jpg"
+    ],
+    "owner": {
+      "id": "MM-USER-024",
+      "name": "Ei Hlaing",
+      "type": "owner",
+      "phone_verified": true,
+      "response_time_minutes": 64
+    },
+    "verification_status": "pending",
+    "rating": 4.5
+  }
+]
